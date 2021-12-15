@@ -1,0 +1,35 @@
+
+.drawer{ 
+    
+    overflow: hidden;
+    width: 100%;
+    color: #7f8189;
+    transition: max-height 1.2s ease-in-out;
+    a{
+        color: inherit;
+        text-decoration: none;
+    }
+    .link-nav{
+        display: flex;
+        flex-direction: column;
+        >a{ 
+            
+            text-align: center;
+            padding: 10px 0;
+            margin: 5px 0;
+            &:hover{
+               color: #fff;
+               
+                background-color:rgba(49, 49, 49, 0.301) ;
+            }
+        }
+    }
+    &.open-drawer{
+       max-height: 1000px;
+    }
+    &.close-drawer{
+        max-height: 0;
+        transition: max-height 0.8s ease;
+    }
+    
+}

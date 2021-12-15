@@ -1,0 +1,73 @@
+{
+    "EN": {
+        "isRtl": false,
+        "docType": "Document Type",
+        "docTypeOption": {
+            "invoice": "Invoice",
+            "estimate": "Estimate"
+        },
+        "clientInfo": "Client informations",
+        "clientInfoOption": {
+            "lastName": "Last Name",
+            "firstName": "First Name",
+            "Adress": "Adress",
+            "Country": "Country",
+            "City": "City",
+            "postCode": "Postcode"
+        },
+        "product": "Product/Services information",
+        "productName": "Name of product/services",
+        "price": "Price",
+        "quantity": "Quantity",
+        "VAT": "VAT",
+        "submit": "Add to the list"
+    },
+    "FR": {
+        "isRtl": false,
+        "docType": "Type de Document",
+        "docTypeOption": {
+            "invoice": "Facture",
+            "estimate": "Devis"
+        },
+        "clientInfo": "Information du client",
+        "clientInfoOption": {
+            "lastName": "Nom",
+            "firstName": "Prenom",
+            "Adress": "Adresse",
+            "Country": "Pays",
+            "City": "Ville",
+            "postCode": "Code Postal"
+        },
+        "product": "Informations du produit/service",
+        "productName": "Nom du produit/service",
+        "price": "Prix",
+        "quantity": "Quantité",
+        "VAT": "TVA",
+        "submit": "Ajouter a la liste"
+
+    },
+    "HE": {
+        "isRtl": true,
+        "docType": "סוג מסמך",
+        "docTypeOption": {
+            "invoice": "קבלה",
+            "estimate": "הצעת מחיר"
+        },
+        "clientInfo": "פרטי הלקוח",
+        "clientInfoOption": {
+            "lastName": "שם משפחה",
+            "firstName": "שם פרטי",
+            "Adress": "כתובת",
+            "Country": "מדינה",
+            "City": "עיר",
+            "postCode": "מיקוד"
+        },
+        "product": "מידע על המוצר",
+        "productName": "שם המוצר",
+        "price": "מחיר",
+        "quantity": "כמות",
+        "VAT": "מע\"ם",
+        "submit": "הוסף לרשימה"
+
+    }
+}

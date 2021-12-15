@@ -1,0 +1,12 @@
+.rtl-mode{
+   
+        direction: rtl;
+        select{
+            text-align: center;
+            direction: rtl;
+            option{
+                direction: ltr;
+            }
+        }
+    
+}

@@ -1,0 +1,42 @@
+.nav{
+    h6{
+        font-size: 0.9rem;
+        margin: 0;
+        padding: 0;
+        color: #fff;
+        transition: color 0.4s ease;
+       a{
+           color: inherit;
+           text-decoration: inherit;
+           font-size: inherit;
+       }
+       &:hover{
+           
+           color:#7f8189;
+       }
+    }
+    display: flex;
+    background-color: rgb(65, 65, 65);
+    .main-content{
+        margin:10px;
+        flex: 1;
+        color: #7f8189;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        .right-side{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            .burger-nav{
+            color: #fff;
+            cursor: pointer;
+            font-size: 1.5rem;
+            &:hover{
+                opacity: 0.8;
+            }
+        }
+        }
+        
+    }
+}

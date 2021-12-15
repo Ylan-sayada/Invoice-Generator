@@ -1,0 +1,21 @@
+{
+    "link1": {
+        "EN": "Home",
+        "HE": "עמוד הראשי",
+        "FR": "Acceuil"
+    },
+    "link2": {
+        "EN": "My Society details",
+
+        "HE": "פרטי העסק שלי",
+
+        "FR": "Informations de ma société"
+    },
+    "link3": {
+        "EN": "Generated Documents",
+
+        "HE": "טפסים שהופקו",
+
+        "FR": "Documents générer"
+    }
+}

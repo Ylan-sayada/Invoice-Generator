@@ -1,0 +1,15 @@
+.home{
+    text-align: center;
+    padding: 10px;
+    height: calc(100vh - 60px);
+    
+    .presentation-content{
+        h2{
+        font-size:1.2rem;
+    }
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-evenly;
+    }
+}

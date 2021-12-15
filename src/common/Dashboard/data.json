@@ -1,0 +1,43 @@
+{
+    "companyData": [{
+        "firstName": "Schmidt",
+        "lastName": "Bailey",
+        "companyName": "sIcology",
+        "generatedAt": "1981-04-10T04:35:10.318Z",
+        "phoneNumber": 104982003,
+        "adress": "Terrace Place",
+        "country": "Nevada",
+        "postCode": 5,
+        "prefix": "Mr"
+    }, {
+        "firstName": "Swanson",
+        "lastName": "Blevins",
+        "companyName": "Eargo",
+        "generatedAt": "1996-11-23T04:57:04.128Z",
+        "phoneNumber": 237242741,
+        "adress": "Lott Place",
+        "country": "Connecticut",
+        "postCode": 5,
+        "prefix": "MR"
+    }, {
+        "firstName": "Stephenson",
+        "lastName": "Lamb",
+        "companyName": "Limozen",
+        "generatedAt": "1976-02-21T20:20:55.187Z",
+        "phoneNumber": 828423461,
+        "adress": "Coleridge Street",
+        "country": "Minnesota",
+        "postCode": 5,
+        "prefix": "MR"
+    }, {
+        "firstName": "Ware",
+        "lastName": "Santana",
+        "companyName": "Geekol",
+        "generatedAt": "2007-11-20T10:29:20.985Z",
+        "phoneNumber": 384856719,
+        "adress": "Temple Court",
+        "country": "Texas",
+        "postCode": 5,
+        "prefix": "MR"
+    }]
+}
